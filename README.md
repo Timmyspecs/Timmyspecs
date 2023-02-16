@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timmyspecs
+- 👋 Hi, I’m @Timmy
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning HTML CSS and JavaScript after which I would move on to the back end languages
 - 💞️ I’m looking to collaborate on any project as much as it would improve my skill
